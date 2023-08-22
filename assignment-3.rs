@@ -1,3 +1,4 @@
+/*create an employee data collection rust program that reads the employee_name, employee_id, email, age, phone number, from the terminal, using struct. create a function in order to return a particular employee details from an array of employees using their employee_id. also write a function to return all employees with the same age.*/
 use std::collections::HashMap;
 use std::io;
 
